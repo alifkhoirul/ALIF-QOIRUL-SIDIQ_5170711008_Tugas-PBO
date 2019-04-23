@@ -1,0 +1,1 @@
+sebuah program untuk menampilkan data diri dan game favorit. 
